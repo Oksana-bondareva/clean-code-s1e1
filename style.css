@@ -73,7 +73,7 @@ button {
 }
 
 /* Heading */
-.section-name,
+.tasks-list__section-name,
 .new-task-add-text {
   color: #333;
   font-weight: 700;
@@ -107,7 +107,7 @@ button {
   margin: 0 0 20px;
 }
 
-.add-task__input {
+.add-task-input {
   width: 318px;
 }
 
