@@ -32,13 +32,13 @@
   margin: 0 auto 0;
 }
 
-.add-task-input {
+.add-task__input {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
 }
 
-.tasks-list__add-task {
+.add-task {
   display: flex;
 }
 
@@ -74,7 +74,7 @@ button {
 
 /* Heading */
 .tasks-list__section-name,
-.tasks-list__new-task-add-text {
+.new-task-add-text {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -102,7 +102,7 @@ button {
 }
 
 /* New Task */
-.tasks-list__new-task-add-text {
+.new-task-add-text {
   display: block;
   margin: 0 0 20px;
 }
